@@ -5,6 +5,8 @@ TEC-1 GPS system
 ## Abstract
 
 ## Introduction 
+Build on image in TE 11-51.
+
 Take GPS data then rotate globe and move led pointer that position on the globe.
 
 
